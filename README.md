@@ -6,7 +6,7 @@ AIORI-3 Cybersecurity Hackathon · Problem Statement **PS-011**
 
 > SURFACEZERO continuously inventories the DNS records, TLS certificates and exposed services of an **explicitly authorised lab portfolio**, compares each run against an approved baseline, and raises evidence-backed, explainable alerts when something changes.
 
-**Team:** `<TEAM NAME>` · **Members:** `<NAMES>` · **Mentor:** `<MENTOR>`
+**Team:** `Singularity` · **Members:** `kirti Singh , Vedansh Chamoli` · **Mentor:** `Vinay Patel`
 
 > **Status:** this README is the design and usage contract for the project. Sections marked *(planned)* describe behaviour that is specified but not yet implemented. The evaluation numbers in this document are intentionally empty. They are filled in only from `make demo` output, never by hand.
 
